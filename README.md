@@ -351,10 +351,3 @@ Make sure you set up an email service provider in the env file. For testing purp
 
 For the email and page view capture to work, [the queue should be run](#using-the-queue)
 
-## Future Development
-**This project was developed for an academic assignment, the project will be further developed in the future as a portfolio project**
-
-If you have any suggestions create an issue on the repository.
-
-
-![CatComputerGIF](https://github.com/sachintha-lk/CRM-laravel/assets/68807141/194f3a88-16b8-421f-9c5e-c076e56f8bdd)
